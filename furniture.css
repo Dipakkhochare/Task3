@@ -1,0 +1,437 @@
+*{
+	padding: 0px;
+	margin: 0px auto;
+}
+#back{
+
+	background-image: url(../image/f1.png) ;
+	background-repeat:no-repeat;
+}
+ul li{
+    
+	list-style-type: none;
+	display: inline-block;
+}
+ul li a{
+	text-decoration: none;
+}
+#h1{
+	font-weight: 10px;
+    font-size: 55px;
+	font-family:garamond;
+	padding-top: 45px;
+	padding-bottom: 8px;
+	text-align: center;
+	color: goldenrod;
+}
+#h2{
+	color: grey;
+	text-align: center;
+}
+#m1{
+	display: inline-block;
+}
+#h3{
+     padding-top: 50px;
+	color: goldenrod;
+	padding-left: 480px;
+}
+#h4{
+	padding-bottom: -20px;
+	color: goldenrod;
+	padding-left: 780px;
+}
+#ul1{
+	padding-top: 20px;
+	padding-left: 45px;
+}
+#li1{
+	color: grey;
+}
+#li3{
+	color: grey;
+	padding-left: 45px;
+}
+#li2{
+	color: grey;
+	padding-left: 45px;
+}
+#li4{
+	color: grey;
+	padding-left: 35px;
+}
+#li5{
+  color: grey;
+}
+#li6{
+	color: grey;
+	padding-left: 45px;
+}
+#li7{
+	color: grey;
+	padding-left: 45px;
+}
+#li8{
+	color: grey;
+	padding-right: 45px;
+	padding-left: 45px;
+}
+#li9{
+	padding-bottom: 30px;
+	padding-left: 1225px;
+}
+#list3{
+
+	padding-left: 1100px;
+}
+#pic1{
+	padding-left: 40px;
+	height: 700px;
+	width: 1400px;
+}
+#h5{
+	padding-top: 20px;
+	color: goldenrod;
+	text-align: center;
+	padding-bottom: 20px;
+}
+#p1{
+	margin-right: 50px;
+	padding-left: 2px;
+     padding-right:2px;
+	background: grey;
+	color: white;
+}
+#p2{
+	margin-right: 50px;
+	padding-left: 2px;
+	padding-right: 2px;
+	background: grey;
+	color: white;
+}
+#p3{
+	margin-right: 100px;
+	padding-left: 2px;
+	padding-right: 2px;
+	background: grey;
+	color: white;
+}
+#i1{
+	margin-bottom:25px ;
+	height: 240px;
+	width: 245px;
+}
+#i2{
+	margin-bottom: 25px;
+	height: 240px;
+	width: 245px;
+}
+#i3{
+	margin-bottom: 25px;
+	height: 240px;
+	width: 245px;
+}
+#i4{
+	margin-bottom:25px ;
+	height: 240px;
+	width: 245px;
+}
+#i5{
+	margin-bottom: 25px;
+	height: 240px;
+	width: 245px;
+}
+#i6{
+	margin-bottom: 25px;
+	height: 240px;
+	width: 245px;
+}
+#i7{
+	margin-bottom: 25px;
+	height: 240px;
+	width: 245px;
+}
+#i8{
+	margin-bottom: 25px;
+	height: 240px;
+	width: 245px;
+}
+#i9{
+	margin-bottom: 25px;
+	height: 240px;
+	width: 245px;
+}
+#p4{
+	padding-bottom: 80px;
+	text-align: center;
+}
+#h6{
+	padding-top: 0px;
+	color: goldenrod;
+	font-size: 40px;
+	padding-left:1100px;
+	padding-bottom:60px;
+}
+#h7{
+	color: grey;
+	font-size: 40px;
+	padding-left: 1100px;
+	padding-bottom: 40px;
+}
+#b1{ 
+	margin-bottom: 170px;
+	border: none;
+	margin-left: 1100px;
+	padding-right: 25px;
+	padding-left: 25px;
+	padding-bottom: 8px;
+	padding-top: 8px;
+	background: goldenrod;
+	color: white;
+}
+#h8{
+	margin-bottom: 200px;
+	font-size: 28px;
+	color: grey;
+	margin-left: 1000px;
+}
+#i10{ 
+	padding-left: 80px;
+}
+#i11{
+	margin-left:-250px;
+}
+#img{
+	margin-top: -850px;
+}
+#back1{
+	background-image: url(../image/f15.png);
+	background-repeat:no-repeat ;
+}
+
+#i12{
+
+	padding-left: 980px ;
+}
+#msg{ 
+	margin-top: -500px;
+	text-align: center;
+}
+#h9{
+   color: goldenrod;
+}
+#h10{
+	color: grey;
+	padding-bottom: 15px;
+}
+#b2{
+	margin-bottom: 4px;
+    padding-left: 60px;
+}
+#b3{
+	height: 20px;
+	color: white;
+	background-color: orange;
+	border: none;
+	padding-left: 60px;
+}
+#p5{
+
+	font-size: 9px;
+	padding-top: 7px;
+	color:grey;
+}
+#b2{
+	margin-top: 5px;
+}
+#four{
+	background-image: url(../image/f18.png);
+	background-repeat: no-repeat;
+	margin-top: 350px;
+	margin-bottom: 70px;
+}
+#h11{
+
+	margin-bottom: 28px;
+	font-size: 45px;
+	font-weight: 0px;
+	text-align: center;
+	color: goldenrod;
+}
+#i13{
+	margin-left: 1150px;
+}
+#h12{
+	margin-left: 645px;
+	color: goldenrod;
+}
+#i14{
+	margin-top: -230px;
+	padding-bottom: -80px;
+	margin-left: 645px;
+}
+#li2{
+	padding-top: 0px;
+}
+#p6{
+
+	text-align: center;
+	margin-left: 645px;
+	width: 500px;
+	background-color: grey;
+	color: white;
+}
+#i15{
+	margin-top: -180px;
+	margin-left: 240px;
+}
+#p7{
+
+	width: 400px;
+	text-align: center;
+	margin-left: 240px;
+	color: white;
+	background-color: grey;
+}
+#i16{
+	margin-top: -230px;
+	margin-left: 170px;
+}
+#i17{
+	margin-top: -570px;
+	margin-left: 555px;
+	height: 600px;
+	width: 650px;
+}
+#p8{
+	font-weight: 20px;
+	font-size: 40px;
+	padding-top: 20px;
+	color: goldenrod;
+}
+#p9{
+	font-weight: 15px;
+	font-size: 25px;
+	padding-top: 20px;
+	color: grey;
+	padding-bottom: 20px;
+}
+#p10{
+	font-size: 25px;
+	font-weight: 25px;
+	color: grey;
+}
+#li5{
+	margin-left: 270px;
+	margin-bottom: 300px;
+}
+#six{
+	width: 1292px;
+	height: 881px;
+	background-image: url(../image/f6.png);
+	background-repeat:no-repeat;
+	margin-left: 100px;
+}
+#form1{
+	font-family: 'Athiti', sans-serif;
+	margin-top: 200px;
+	margin-left: 450px;
+	width: 380px;
+	height: 300px;
+	background-color: white;
+	opacity: 80%;
+	text-align: center;
+	padding: 30px;
+}
+#form1 input{
+	padding: 5px;
+	height: 20px;
+	width: 300px;
+}
+#six img{
+	position: absolute;
+	padding-bottom: 0px;
+}
+#six h2{
+	padding-top: 40px;
+	text-align: center;
+	color: #CFB53B;
+	font-family: sans-serif;
+}
+#para{
+	font-size: 11px;
+}
+#seven{
+	margin-top: 20px;
+	background-image: url(../image/f10.png);
+	background-repeat: no-repeat;
+}
+#i19{
+	width: 600px;
+	height: 650px;
+	padding-left: 100px;
+	margin-left: 0px;
+}
+#i20{
+	margin-top:35px;
+     margin-bottom: 260px;
+	margin-left: -50px;
+	height: 350px;
+	width: 400px;
+}
+#i21{
+	width: 300px;
+	height: 170px;
+	margin-bottom: 95px;
+	margin-left: -355px;
+}
+/*list{
+	margin-top: -60px;
+}*/
+#p{
+	padding-top: -80px;
+	margin-left: 1030px;
+	font-size: 34px;
+	color: goldenrod;
+}
+#lis{
+	margin-top: -100px;
+}
+#h14{
+	font-family:'Athiti' sans-serif;
+	margin-bottom:0px;
+	padding-left: 930px;
+	font-size: 90px;
+	color: goldenrod;
+}
+#last{
+	display: flex;
+	flex-basis: 30%;
+	height: auto;
+	background-color: grey;
+	color: white;
+	text-align: center;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+#menu1{
+	text-decoration: none;
+	font: 20px ;
+	font-family: 'Athiti', sans-serif;
+	margin-left: 300px;
+	color: white;
+}
+
+#menu2{
+	padding-left: 80px;
+}
+#menu2 input{
+	width: 200px;
+}
+#menu3{
+	padding-left: 160px;
+}
+#v1{
+	text-decoration: none;
+	color: white;
+}
